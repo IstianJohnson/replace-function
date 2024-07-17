@@ -1,0 +1,4 @@
+a = input("Enter the string : ")
+if "AB" in a:
+    c = a.replace("AB", "ab")
+    print(c)
